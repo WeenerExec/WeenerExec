@@ -4,11 +4,7 @@ WeenerExec
 <img src="https://cdn.discordapp.com/emojis/819946396291170405.gif?v=1" height="32" />
 </h1>
 <p align="center">
-  <a href=""><img src="" alt="Discord server"></a>
-</p>
-<p align="center">
-  <a href=""><img src="" alt="Discord server"></a>
-</p>
+  <a href=""><img src="https://cdn.discordapp.com/attachments/845042591409766433/849980547454730240/Discord-Logo-Wordmark-WnC.png.2b1740b87659fd1abc710db2928b8352.png" alt="Discord server"></a>
 
 <br>
 
