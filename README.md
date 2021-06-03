@@ -1,7 +1,7 @@
 <h1 align="center">
-<img src="" height="32" />
+<img src="https://cdn.discordapp.com/emojis/819946396291170405.gif?v=1" height="32" />
 WeenerExec
-<img src="" height="32" />
+<img src="https://cdn.discordapp.com/emojis/819946396291170405.gif?v=1" height="32" />
 </h1>
 <p align="center">
   <a href=""><img src="" alt="Discord server"></a>
